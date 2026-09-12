@@ -29,9 +29,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=00ff41&label=🛰️%20ISS&query=%24.latitude&prefix=%22&suffix=%22%C2%B0&url=https%3A%2F%2Fapi.wheretheiss.at%2Fv1%2Fsatellites%2F25544&cacheSeconds=30" alt="ISS lat" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00ff41&label=%F0%9F%9B%B0%20ISS%20lat&query=%24.latitude&url=https%3A%2F%2Fapi.wheretheiss.at%2Fv1%2Fsatellites%2F25544&cacheSeconds=30" alt="ISS lat" />
   <img src="https://img.shields.io/badge/dynamic/json?color=0b3d91&label=ISS%20speed&query=%24.velocity&suffix=%20km%2Fh&url=https%3A%2F%2Fapi.wheretheiss.at%2Fv1%2Fsatellites%2F25544&cacheSeconds=30" alt="ISS speed" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=ff073a&label=Dhaka&query=%24.current_condition%5B0%5D.temp_C&suffix=%C2%B0C&url=https%3A%2F%2Fwttr.in%2FDhaka%3Fformat%3Dj1&cacheSeconds=600" alt="weather" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=ff073a&label=ISS%20alt&query=%24.altitude&suffix=%20km&url=https%3A%2F%2Fapi.wheretheiss.at%2Fv1%2Fsatellites%2F25544&cacheSeconds=30" alt="ISS alt" />
 </p>
 
 ---
