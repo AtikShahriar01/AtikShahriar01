@@ -1,4 +1,8 @@
 <p align="center">
+  <b>🇬🇧 English</b> · <a href="README.bn.md">🇧🇩 বাংলা</a>
+</p>
+
+<p align="center">
   <img src="assets/matrix.svg" alt="matrix" width="100%" style="border-radius:10px;border:1px solid #0f5132">
 </p>
 
@@ -20,6 +24,16 @@
   <img src="https://img.shields.io/badge/Available%20for%20hire-yes-brightgreen?style=for-the-badge" alt="hire" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1200&color=00FF41&center=true&vCenter=true&width=560&lines=git+commit+-m+'patch+the+vuln';git+push+origin+main;git+commit+-m+'decode+NOAA+satellite+image';git+commit+-m+'harden+auth+middleware';git+commit+-m+'ship+the+thing+%F0%9F%9A%80'" alt="git commits" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=00ff41&label=🛰️%20ISS&query=%24.latitude&prefix=%22&suffix=%22%C2%B0&url=https%3A%2F%2Fapi.wheretheiss.at%2Fv1%2Fsatellites%2F25544&cacheSeconds=30" alt="ISS lat" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=0b3d91&label=ISS%20speed&query=%24.velocity&suffix=%20km%2Fh&url=https%3A%2F%2Fapi.wheretheiss.at%2Fv1%2Fsatellites%2F25544&cacheSeconds=30" alt="ISS speed" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=ff073a&label=Dhaka&query=%24.current_condition%5B0%5D.temp_C&suffix=%C2%B0C&url=https%3A%2F%2Fwttr.in%2FDhaka%3Fformat%3Dj1&cacheSeconds=600" alt="weather" />
+</p>
+
 ---
 
 <p align="center">
@@ -35,6 +49,16 @@
     <td align="center" width="50%">
       <img src="assets/starfield.svg" alt="starfield" width="440" style="border-radius:10px;border:1px solid #0b3d91"><br>
       <sub>🚀 <b>Aeronautics / Space</b> — systems nominal</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/waveform.svg" alt="waveform" width="440" style="border-radius:8px;border:1px solid #00ff41"><br>
+      <sub>🌊 <b>Live SDR spectrum</b> — decoding the bands</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/globe.svg" alt="globe" width="200" style="border-radius:50%;border:1px solid #0b3d91"><br>
+      <sub>🛰️ <b>LEO tracking</b> — satellite downlink</sub>
     </td>
   </tr>
 </table>
@@ -144,6 +168,51 @@ GRID     : 🔑 NL-__ (Maidenhead locator)
 
 ## 📜 Responsible Disclosure
 I report vulnerabilities **privately and ethically** to vendors and never exploit without authorization. Found an issue in one of my projects? Email me — I respond and credit reporters.
+
+---
+
+## 🗺️ Where I've Been
+<p align="center"><img src="assets/map.svg" alt="world map" width="90%" style="border-radius:10px;border:1px solid #0f5132" /></p>
+
+## 🏆 Achievements Timeline
+```
+✅ Built & shipped Chatbox — local-first AI chat + IDE + PC agent (5-layer security)
+✅ Hardened a real app end-to-end (auth, CSRF, SSRF, CSP, rate-limit, audit)
+✅ Reverse-shell / privilege-esc / web-injection labs (THM/HTB) — 🔑 add your ranks
+🎯 Next: OSCP · satellite ground-station decode · publish a security tool
+```
+> _🔑 replace with your real wins / CTF placings / CVEs._
+
+## 🎯 Currently Consuming
+```
+📖 Reading : "The Web Application Hacker's Handbook" · "Ghost in the Wires"
+📺 Watching: rocket launches, SDR builds, CTF write-ups
+🧪 Building: a satellite telemetry dashboard
+```
+> _🔑 edit with what you're actually reading/watching._
+
+## 🤝 Open To
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-2f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Freelance%20Security-ff073a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to-Mentorship-00ff41?style=for-the-badge&labelColor=000" />
+  <img src="https://img.shields.io/badge/Open%20to-CTF%20Teams-9b59b6?style=for-the-badge" />
+</p>
+
+---
+
+## 🔑 Coming Soon — add your handle/link to light these up
+> _এগুলো ready, শুধু আপনার অ্যাকাউন্টের তথ্য বসাতে হবে:_
+
+| Widget | যা লাগবে |
+|---|---|
+| ⏱️ WakaTime coding hours | WakaTime API token |
+| 🎵 Spotify now-playing | Spotify (via workflow secret) |
+| 🥋 LeetCode / Codewars solved | আপনার username |
+| 🎖️ TryHackMe / HTB rank card | আপনার THM/HTB username |
+| 🏴 CTFtime team/rank | CTFtime handle |
+|  GitHub Metrics (habits/isocalendar) | repo `METRICS_TOKEN` secret (PAT) |
+| 📝 Latest blog posts | dev.to / Medium RSS link |
 
 ---
 

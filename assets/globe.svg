@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewBox="0 0 220 220">
+  <defs>
+    <clipPath id="globe"><circle cx="110" cy="110" r="80"/></clipPath>
+    <radialGradient id="oc" cx="40%" cy="35%" r="75%">
+      <stop offset="0" stop-color="#1b6fb8"/><stop offset="1" stop-color="#071a30"/>
+    </radialGradient>
+  </defs>
+  <circle cx="110" cy="110" r="82" fill="none" stroke="#00ff41" stroke-opacity="0.5"/>
+  <circle cx="110" cy="110" r="80" fill="url(#oc)"/>
+  <g clip-path="url(#globe)" stroke="#00ff41" stroke-opacity="0.7" fill="none">
+    <!-- rotating meridians -->
+    <g>
+      <ellipse cx="110" cy="110" rx="20" ry="80"/>
+      <ellipse cx="110" cy="110" rx="45" ry="80"/>
+      <ellipse cx="110" cy="110" rx="70" ry="80"/>
+      <animateTransform attributeName="transform" type="translate" values="0 0;40 0;0 0;-40 0;0 0" dur="6s" repeatCount="indefinite"/>
+    </g>
+    <!-- latitude lines -->
+    <line x1="30" y1="80" x2="190" y2="80"/><line x1="30" y1="110" x2="190" y2="110"/><line x1="30" y1="140" x2="190" y2="140"/>
+  </g>
+  <!-- orbiting satellite -->
+  <g>
+    <circle cx="110" cy="18" r="4" fill="#ff073a"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 110 110" to="360 110 110" dur="5s" repeatCount="indefinite"/>
+  </g>
+  <ellipse cx="110" cy="110" rx="100" ry="30" fill="none" stroke="#00ff41" stroke-opacity="0.25" transform="rotate(-20 110 110)"/>
+  <text x="110" y="208" text-anchor="middle" font-family="monospace" font-size="11" fill="#00ff41">LEO ORBIT // TRACKING</text>
+</svg>
