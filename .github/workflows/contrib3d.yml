@@ -1,0 +1,30 @@
+name: 🧊 Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graphs
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: AtikShahriar01
+
+      - name: Commit & push to profile-3d-contrib branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b profile-3d-contrib || git checkout profile-3d-contrib
+          git add -A .
+          git commit -m "update 3D contrib" || true
+          git push -f origin profile-3d-contrib
