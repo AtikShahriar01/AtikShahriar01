@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120">
+  <rect width="640" height="120" fill="#0a0a0a" rx="8"/>
+  <text x="16" y="30" font-family="monospace" font-size="14" fill="#00ff41">$ ./breach --target=knowledge --scope=authorized</text>
+  <rect x="16" y="46" width="600" height="20" rx="4" fill="#111" stroke="#00ff41" stroke-opacity="0.4"/>
+  <rect x="16" y="46" width="0" height="20" rx="4" fill="#00ff41" opacity="0.8">
+    <animate attributeName="width" values="0;600;600;0" keyTimes="0;0.8;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="16" y="92" font-family="monospace" font-size="13" fill="#b6ffcc">
+    [■■■■■■■■□□□□] bypassing… recon… exploit… privilege-escalate… persist… report
+    <animate attributeName="opacity" values="1;0.5;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
