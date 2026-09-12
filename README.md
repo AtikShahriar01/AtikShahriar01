@@ -96,7 +96,7 @@
   <img src="assets/eq.svg" alt="equalizer" width="640" style="border-radius:10px;border:1px solid #00ff41"><br>
   <sub>🎧 GitHub-এ inline audio ব্লক করা — তাই this is a live *visual* equalizer. আসল audio শুনতে ক্লিক করুন 👇</sub><br>
   <a href="#"><img src="https://img.shields.io/badge/🔊_Listen-SDR_websdr_stream-00ff41?style=for-the-badge&labelColor=000" alt="listen"></a>
-  <a href="#"><img src="https://img.shields.io/badge/🎵_Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"></a>
+  <a href="#"><img src="https://img.shields.io/badge/▶️%20My%20YouTube-Watch%20%26%20Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"></a>
 </p>
 
 ## 🛡️ Offense & Defense — Security Toolkit
@@ -214,13 +214,13 @@ I report vulnerabilities **privately and ethically** to vendors and never exploi
 
 | Widget | যা লাগবে |
 |---|---|
-| ⏱️ WakaTime coding hours | WakaTime API token |
-| 🎵 Spotify now-playing | Spotify (via workflow secret) |
-| 🥋 LeetCode / Codewars solved | আপনার username |
-| 🎖️ TryHackMe / HTB rank card | আপনার THM/HTB username |
-| 🏴 CTFtime team/rank | CTFtime handle |
+| ⏱️ WakaTime coding hours | WakaTime **API token** (settings → API) |
+| ▶️ YouTube subs/views/live | আপনার **YouTube channel ID** |
+| 🥋 LeetCode / Codewars solved | আপনার **username** |
+| 🎖️ TryHackMe / HTB rank card | আপনার **THM / HTB username** |
+| 🏴 CTFtime team/rank | **CTFtime handle** |
 |  GitHub Metrics (habits/isocalendar) | repo `METRICS_TOKEN` secret (PAT) |
-| 📝 Latest blog posts | dev.to / Medium RSS link |
+| 📝 Latest blog posts | dev.to / Medium **RSS link** |
 
 ---
 
