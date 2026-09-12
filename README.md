@@ -91,6 +91,14 @@
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
+## 🔊 Live RX — Sound Board
+<p align="center">
+  <img src="assets/eq.svg" alt="equalizer" width="640" style="border-radius:10px;border:1px solid #00ff41"><br>
+  <sub>🎧 GitHub-এ inline audio ব্লক করা — তাই this is a live *visual* equalizer. আসল audio শুনতে ক্লিক করুন 👇</sub><br>
+  <a href="#"><img src="https://img.shields.io/badge/🔊_Listen-SDR_websdr_stream-00ff41?style=for-the-badge&labelColor=000" alt="listen"></a>
+  <a href="#"><img src="https://img.shields.io/badge/🎵_Now_Playing-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"></a>
+</p>
+
 ## 🛡️ Offense & Defense — Security Toolkit
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
