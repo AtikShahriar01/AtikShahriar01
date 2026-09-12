@@ -142,14 +142,6 @@ GRID     : 🔑 NL-__ (Maidenhead locator)
 
 ---
 
-## 🗝️ PGP / Identity
-```
------BEGIN PGP PUBLIC KEY BLOCK-----
-(🔑 paste your real key or remove this block)
-Fingerprint: ____ ____ ____ ____ ____  ____ ____ ____ ____ ____
-```
-> _Verify before you trust. Sign your commits. Responsible disclosure only._
-
 ## 📜 Responsible Disclosure
 I report vulnerabilities **privately and ethically** to vendors and never exploit without authorization. Found an issue in one of my projects? Email me — I respond and credit reporters.
 
