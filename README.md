@@ -166,9 +166,6 @@ I report vulnerabilities **privately and ethically** to vendors and never exploi
 ### 🗓️ Contribution Calendar
 <p align="center"><img src="https://ghchart.rshah.org/00ff41/AtikShahriar01" alt="contrib" width="95%" /></p>
 
-### 📈 GitHub Metrics (auto-generated)
-<p align="center"><img src="https://raw.githubusercontent.com/AtikShahriar01/AtikShahriar01/metrics/metrics.svg" alt="metrics" /></p>
-
 ### 🧊 3D Contribution Grid (animated)
 <p align="center"><img src="https://raw.githubusercontent.com/AtikShahriar01/AtikShahriar01/profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" alt="3d" /></p>
 
