@@ -209,18 +209,24 @@ I report vulnerabilities **privately and ethically** to vendors and never exploi
 
 ---
 
-## 🔑 Coming Soon — add your handle/link to light these up
-> _এগুলো ready, শুধু আপনার অ্যাকাউন্টের তথ্য বসাতে হবে:_
+## 🔑 Ready to light up — bas handle টা পাঠান
+> _এগুলো template রেডি; শুধু নিচের মানগুলো পাঠালেই লাইভ কার্ড বসে যাবে (কোনো secret চাই না যেগুলোতে শুধু public username লাগে):_
 
-| Widget | যা লাগবে |
-|---|---|
-| ⏱️ WakaTime coding hours | WakaTime **API token** (settings → API) |
-| ▶️ YouTube subs/views/live | আপনার **YouTube channel ID** |
-| 🥋 LeetCode / Codewars solved | আপনার **username** |
-| 🎖️ TryHackMe / HTB rank card | আপনার **THM / HTB username** |
-| 🏴 CTFtime team/rank | **CTFtime handle** |
-|  GitHub Metrics (habits/isocalendar) | repo `METRICS_TOKEN` secret (PAT) |
-| 📝 Latest blog posts | dev.to / Medium **RSS link** |
+<p align="center">
+  <img src="https://img.shields.io/badge/▶️_YouTube-pending_channel_ID-grey?style=for-the-badge&logo=youtube" />
+  <img src="https://img.shields.io/badge/🥋_LeetCode-pending_username-grey?style=for-the-badge&logo=leetcode&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/🎖️_TryHackMe-pending_username-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📝_blog-pending_RSS-grey?style=for-the-badge" />
+</p>
+
+**📩 এই ফরম্যাটে পাঠালেই আমি লাইভ করে দেব:**
+```
+youtube: UCxxxxxxxxxxxxxxxxxxxx
+leetcode: <username>
+tryhackme: <username>
+devto/blog: <username বা RSS link>
+wakatime: <token>        (ঐচ্ছিক)
+```
 
 ---
 
@@ -234,6 +240,14 @@ I report vulnerabilities **privately and ethically** to vendors and never exploi
 
 ### 🗓️ Contribution Calendar
 <p align="center"><img src="https://ghchart.rshah.org/00ff41/AtikShahriar01" alt="contrib" width="95%" /></p>
+
+### 🟢 Live now (real-time, no token — via Shields)
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/AtikShahriar01/chatbox?style=for-the-badge&color=00ff41&label=last%20commit" alt="last-commit" />
+  <img src="https://img.shields.io/github/commit-activity/y/AtikShahriar01/chatbox?style=for-the-badge&color=0b3d91&label=commits/yr" alt="activity" />
+  <img src="https://img.shields.io/github/watchers/AtikShahriar01/chatbox?style=for-the-badge&color=ff073a&label=watchers" alt="watchers" />
+  <img src="https://img.shields.io/github/v/release/AtikShahriar01/chatbox?style=for-the-badge&color=9b59b6&label=release" alt="release" />
+</p>
 
 ### 🧊 3D Contribution Grid (animated)
 <p align="center"><img src="https://raw.githubusercontent.com/AtikShahriar01/AtikShahriar01/profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" alt="3d" /></p>
