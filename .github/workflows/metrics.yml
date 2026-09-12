@@ -1,0 +1,25 @@
+name: 📊 GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics.svg (minimal, non-fatal)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: AtikShahriar01
+          committer_branch: metrics
+          committer_message: "chore: update metrics"
+          plugins_errors_fatal: "no"
+          base: header
+          plugin_isocalendar: yes
