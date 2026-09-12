@@ -82,7 +82,7 @@
 
 ### 🧊 3D Contribution Grid
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AtikShahriar01/AtikShahriar01/profile-3d-contrib/profile-gitblock.svg" alt="3D graph" />
+  <img src="https://raw.githubusercontent.com/AtikShahriar01/AtikShahriar01/profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" alt="3D graph" />
 </p>
 
 ---
