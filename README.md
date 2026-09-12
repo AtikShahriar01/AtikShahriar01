@@ -216,6 +216,6 @@ I report vulnerabilities **privately and ethically** to vendors and never exploi
 
 <!--
   🔑 TO CUSTOMIZE (search "🔑" in this file):
-  callsign + grid, worked satellites, PGP key, certification years/status,
+  callsign + grid, worked satellites, certification years/status,
   education years/institution, donate links (BMC/Ko-fi/PayPal), LinkedIn/X URLs.
 -->
