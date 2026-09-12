@@ -93,21 +93,18 @@
 ## 📊 Live System Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtikShahriar01&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&ring_color=00ff41" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtikShahriar01&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" height="170" />
+  <img src="https://img.shields.io/github/followers/AtikShahriar01?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/AtikShahriar01/chatbox?style=social" alt="stars" />
+  <img src="https://img.shields.io/github/forks/AtikShahriar01/chatbox?style=social" alt="forks" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=00ff41&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FAtikShahriar01&style=social" alt="repos" />
 </p>
 
+### 🗓️ Contribution Calendar (live)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtikShahriar01&theme=chartreuse-dark&hide_border=true" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=AtikShahriar01&theme=dracula&no-frame=true&column=7&margin-w=6" height="165" />
+  <img src="https://ghchart.rshah.org/00ff41/AtikShahriar01" alt="contribution chart" width="95%" />
 </p>
 
-### 📈 Activity Signal
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtikShahriar01&theme=gotham&hide_border=true&area=true" width="95%" />
-</p>
-
-### 🧊 3D Contribution Grid
+### 🧊 3D Contribution Grid (animated)
 <p align="center">
   <img src="https://raw.githubusercontent.com/AtikShahriar01/AtikShahriar01/profile-3d-contrib/profile-3d-contrib/profile-season-animate.svg" alt="3D graph" />
 </p>
